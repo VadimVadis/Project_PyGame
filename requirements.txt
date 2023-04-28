@@ -1,0 +1,4 @@
+numpy==1.22.0
+pygame==2.1.0
+pygame-gui==0.5.7
+
